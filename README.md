@@ -9,8 +9,8 @@ There are many ways to go about coming up with a solution to a problem. Of cours
 
 One might argue that these processes/steps take too long and are unnecessary. I would agree with you if I've: 
 
-a) Come across the problem before, or 
-b) That the problem seems rudimentary. 
+* Come across the problem before, or 
+* That the problem seems rudimentary. 
 
 However, the goal is to instill these problem-solving strategies into you so that when you do face a harder problem, you will have the tools necessary to dissect and disarm your predicament! The reason the problems in this repo are going to be on the easier side is so that you focus on the problem solving strategies rather than the problem themselves.
 
@@ -23,8 +23,8 @@ Before starting the problem, listing out the input, output, constraints and edge
 It can help you to imagine inserting certain inputs into your function and knowing the outputs to those inputs. This can help you visualize what work needs to happen within your function and help you come up with edge cases and constraints should you run into them. This step can help you refine your IOCE, and prevent you from coding up non-ideal solutions to your problem.
 
 example for the add function: 
-add(1, 3) // 4; 
-add(-4, -10) // -14
+* add(1, 3) // 4; 
+* add(-4, -10) // -14
 
 ## 3) Brute Force
 
